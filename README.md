@@ -1,36 +1,131 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Muhammad Yasir</h1>
-<h3 align="center">A passionate frontend web developer from Pakistan</h3>
+# Hi, I'm Muhammad Yasir 👋
+### Frontend Developer · React.js · Next.js · MERN Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myasirweb&label=Profile%20views&color=0e75b6&style=flat" alt="myasirweb" /> </p>
+**Building fast, scalable web apps · Open to Remote Opportunities**
 
-- 💬 Ask me about **HTML, CSS & JAVASCRIPT**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
 
-- 📫 How to reach me **muhammad.yasir1368@gmail.com**
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<div> 
-  <a href="https://instagram.com/muhammad.yasir1368?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/profile.php?id=100009554303319&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:muhammad.yasir1368@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasirweb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
-</p>
+---
+
+## 👨‍💻 About Me
+
+- 🚀 **3+ years** of experience building responsive, high-performance web applications
+- 🏗️ Currently building a **School Management System** (10+ modules) solo from scratch — React.js, Redux Toolkit, REST APIs
+- 💼 Delivered **15+ client websites** end-to-end as a solo developer (SAJ Legal, and more)
+- 🌍 Experienced working with **international clients** and remote teams
+- 🔄 Transitioning to **Full Stack MERN** — actively building backend projects
+- 📬 Open to **remote frontend / full stack roles**
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myasirweb&show_icons=true&locale=en&layout=compact" alt="myasirweb" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&locale=en" alt="myasirweb" /></p>
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### State Management & APIs
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Backend (MERN)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 School Management System *(In Progress)*
+> Solo-built full SaaS platform from scratch — 10+ modules complete
+
+- **Stack:** React.js · Redux Toolkit · RTK Query · Ant Design · REST APIs
+- **Modules:** Administration, Student Management, News, Complexity tracking + more
+- **Role:** Complete solo ownership — architecture, UI, state management, API integration
+- 🔗 *Coming soon to GitHub*
+
+---
+
+### 🛒 [MERN E-Commerce App — Watches Store](https://github.com/myasirweb/mern-ecommerce-wachesApp)
+> Full-stack e-commerce application
+
+- **Stack:** MongoDB · Express.js · React.js · Node.js
+- **Features:** Product listings, shopping cart, secure auth, admin dashboard
+- 🔗 [View Repo](https://github.com/myasirweb/mern-ecommerce-wachesApp)
+
+---
+
+### ⚖️ [SAJ Legal — Law Firm Website](https://github.com/myasirweb/saj-legal-website)
+> Professional website for a legal firm — solo client project
+
+- **Stack:** HTML · CSS · JavaScript · SEO Optimized
+- **Delivered:** Solo from client brief → design → deployment
+- 🔗 [View Repo](https://github.com/myasirweb/saj-legal-website)
+
+---
+
+### 💼 [Blue Rock Capital — Investment Firm](https://github.com/myasirweb/bluerock-capital-nextjs)
+> Financial advisory company website
+
+- **Stack:** Next.js · TypeScript · Tailwind CSS
+- **Features:** SEO-optimized, high-performance, responsive design
+- 🔗 [View Repo](https://github.com/myasirweb/bluerock-capital-nextjs)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Muhammad Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myasirweb&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Work Experience Highlights
+
+| Company | Role | Period |
+|--------|------|--------|
+| **MileTap Pvt Ltd** | Frontend Developer (Product + Client Services) | Aug 2023 – Present |
+| **RojrzTech Pvt Ltd** | Frontend Developer (Part-Time, Remote) | Oct 2024 – Present |
+| **Freelance / Remote** | Frontend Developer | Jan 2021 – Jul 2023 |
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **remote frontend or full stack opportunities**.
+Feel free to reach out — I respond within 24 hours.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
+
+---
+
+<div align="center">
+  <i>⚡ "Code is not just syntax — it's a solution to someone's real problem."</i>
+</div>
