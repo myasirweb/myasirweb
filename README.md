@@ -1,172 +1,129 @@
+<div align="center">
 
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:#0d1117;color:#e6edf3}
-.wrap{background:#0d1117;min-height:100vh;padding:0}
-.hero{background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);padding:48px 32px 40px;text-align:center;position:relative;overflow:hidden}
-.hero::before{content:'';position:absolute;top:-60px;right:-60px;width:260px;height:260px;border-radius:50%;background:rgba(88,166,255,0.07)}
-.hero::after{content:'';position:absolute;bottom:-40px;left:-40px;width:180px;height:180px;border-radius:50%;background:rgba(88,166,255,0.05)}
-.hero-name{font-size:46px;font-weight:700;color:#fff;letter-spacing:-1px;margin-bottom:8px}
-.hero-title{font-size:15px;color:#89CFF0;letter-spacing:2px;font-weight:400;margin-bottom:20px;text-transform:uppercase}
-.hero-typing{font-family:'Courier New',monospace;font-size:14px;color:#58A6FF;margin-bottom:24px;min-height:22px}
-.badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
-.badge{padding:7px 16px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;display:flex;align-items:center;gap:6px}
-.badge-li{background:#0A66C2;color:#fff}
-.badge-gm{background:#EA4335;color:#fff}
-.badge-po{background:#238636;color:#fff}
-.badge-gh{background:#21262d;color:#e6edf3;border:1px solid #30363d}
-.section{padding:28px 28px 0}
-.sec-title{font-size:13px;font-weight:600;color:#58A6FF;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:18px;display:flex;align-items:center;gap:8px}
-.sec-title::after{content:'';flex:1;height:1px;background:linear-gradient(to right,#21262d,transparent)}
-.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:28px}
-.about-item{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:14px 16px;display:flex;align-items:flex-start;gap:10px}
-.about-icon{font-size:18px;width:28px;text-align:center;flex-shrink:0;margin-top:1px}
-.about-text{font-size:13px;color:#8b949e;line-height:1.5}
-.about-text strong{color:#e6edf3;font-weight:600}
-.stat-row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:28px}
-.stat-card{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:16px 12px;text-align:center}
-.stat-num{font-size:26px;font-weight:700;color:#58A6FF;line-height:1}
-.stat-label{font-size:11px;color:#8b949e;margin-top:4px;line-height:1.3}
-.skills-grid{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}
-.skill-pill{background:#161b22;border:1px solid #30363d;border-radius:20px;padding:5px 13px;font-size:12px;color:#8b949e;display:flex;align-items:center;gap:5px}
-.skill-pill.hot{border-color:#58A6FF40;color:#58A6FF;background:#0d2137}
-.skill-dot{width:6px;height:6px;border-radius:50%;background:#58A6FF;flex-shrink:0}
-.proj-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:28px}
-.proj-card{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:16px;transition:border-color 0.2s}
-.proj-card:hover{border-color:#58A6FF60}
-.proj-name{font-size:14px;font-weight:600;color:#58A6FF;margin-bottom:4px}
-.proj-desc{font-size:12px;color:#8b949e;margin-bottom:10px;line-height:1.5}
-.proj-tags{display:flex;flex-wrap:wrap;gap:5px}
-.tag{background:#0d2137;color:#58A6FF;font-size:10px;padding:2px 8px;border-radius:4px;border:1px solid #58A6FF30}
-.note{background:#161b22;border:1px solid #21262d;border-left:3px solid #58A6FF;border-radius:0 8px 8px 0;padding:12px 16px;font-size:13px;color:#8b949e;margin-bottom:28px}
-.note span{color:#58A6FF;font-weight:600}
-.connect-box{background:linear-gradient(135deg,#0f2027,#203a43);border:1px solid #21262d;border-radius:12px;padding:24px;text-align:center;margin:0 28px 28px}
-.connect-title{font-size:16px;font-weight:600;color:#e6edf3;margin-bottom:6px}
-.connect-sub{font-size:13px;color:#8b949e;margin-bottom:16px}
-.connect-btns{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
-.quote{font-size:13px;color:#8b949e;font-style:italic;margin-top:14px}
-.footer-wave{background:linear-gradient(135deg,#2c5364,#203a43,#0f2027);height:60px;border-radius:0 0 8px 8px;display:flex;align-items:center;justify-content:center}
-.footer-text{font-size:11px;color:#58A6FF60;letter-spacing:1px}
-</style>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Yasir&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Full%20Stack%20MERN&descSize=19&descAlignY=64&descColor=89CFF0"/>
 
-<div class="wrap">
-  <div class="hero">
-    <div class="hero-name">Muhammad Yasir</div>
-    <div class="hero-title">Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Full Stack MERN</div>
-    <div class="hero-typing" id="typing"></div>
-    <div class="badges">
-      <span class="badge badge-li">🔗 LinkedIn</span>
-      <span class="badge badge-gm">✉️ Gmail</span>
-      <span class="badge badge-po">🌐 Portfolio</span>
-      <span class="badge badge-gh">🐙 GitHub</span>
-    </div>
-  </div>
+<br/>
 
-  <div class="section">
-    <div class="sec-title">About me</div>
-    <div class="about-grid">
-      <div class="about-item"><div class="about-icon">🚀</div><div class="about-text"><strong>3+ years</strong> building production-grade websites & web apps</div></div>
-      <div class="about-item"><div class="about-icon">🌐</div><div class="about-text"><strong>50+ projects</strong> delivered solo, end-to-end</div></div>
-      <div class="about-item"><div class="about-icon">⚙️</div><div class="about-text"><strong>Full Stack</strong> capable — UI to API to Database (MERN)</div></div>
-      <div class="about-item"><div class="about-icon">🌍</div><div class="about-text">Worked with <strong>international clients</strong> remotely</div></div>
-      <div class="about-item"><div class="about-icon">🧩</div><div class="about-text">Clean architecture, <strong>reusable component systems</strong></div></div>
-      <div class="about-item"><div class="about-icon">📬</div><div class="about-text"><strong>Open to remote</strong> frontend / full stack roles</div></div>
-    </div>
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
+[![Views](https://komarev.com/ghpvc/?username=myasirweb&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/myasirweb)
 
-  <div class="section">
-    <div class="sec-title">Impact numbers</div>
-    <div class="stat-row">
-      <div class="stat-card"><div class="stat-num">50+</div><div class="stat-label">Websites & apps delivered</div></div>
-      <div class="stat-card"><div class="stat-num">20+</div><div class="stat-label">Reusable UI components</div></div>
-      <div class="stat-card"><div class="stat-num">3+</div><div class="stat-label">Years in production</div></div>
-      <div class="stat-card"><div class="stat-num">90+</div><div class="stat-label">Lighthouse score avg</div></div>
-    </div>
-  </div>
+<br/>
 
-  <div class="section">
-    <div class="sec-title">Tech stack</div>
-    <div class="skills-grid">
-      <div class="skill-pill hot"><div class="skill-dot"></div>React.js</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>Next.js</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>Redux Toolkit</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>RTK Query</div>
-      <div class="skill-pill">JavaScript ES6+</div>
-      <div class="skill-pill">TypeScript</div>
-      <div class="skill-pill">Tailwind CSS</div>
-      <div class="skill-pill">Ant Design</div>
-      <div class="skill-pill">Bootstrap</div>
-      <div class="skill-pill">HTML5 / CSS3</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>Node.js</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>Express.js</div>
-      <div class="skill-pill hot"><div class="skill-dot"></div>MongoDB</div>
-      <div class="skill-pill">REST APIs</div>
-      <div class="skill-pill">Git / GitHub</div>
-      <div class="skill-pill">Vercel</div>
-      <div class="skill-pill">Figma</div>
-      <div class="skill-pill">WordPress</div>
-    </div>
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=⚛️+React.js+%7C+Next.js+%7C+Full+Stack+MERN;🌐+50%2B+Websites+%26+Web+Applications+Delivered;🔥+Building+Scalable+Products+from+Scratch;🌍+Open+to+Remote+Opportunities+Worldwide)](https://git.io/typing-svg)
 
-  <div class="section">
-    <div class="sec-title">Featured projects</div>
-    <div class="note"><span>💡 More full stack products actively being built & uploaded — stay tuned</span></div>
-    <div class="proj-grid">
-      <div class="proj-card">
-        <div class="proj-name">🛒 MERN E-Commerce — Watches</div>
-        <div class="proj-desc">Full stack web application with cart, secure auth & admin dashboard</div>
-        <div class="proj-tags"><span class="tag">MongoDB</span><span class="tag">Express</span><span class="tag">React</span><span class="tag">Node.js</span></div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-name">💼 Blue Rock Capital</div>
-        <div class="proj-desc">Investment firm web app — SEO optimized, high performance</div>
-        <div class="proj-tags"><span class="tag">Next.js</span><span class="tag">TypeScript</span><span class="tag">Tailwind</span></div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-name">⚖️ SAJ Legal</div>
-        <div class="proj-desc">Law firm website — solo client delivery, on-page SEO</div>
-        <div class="proj-tags"><span class="tag">Next.js</span><span class="tag">JavaScript</span><span class="tag">SEO</span></div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-name">🌐 Personal Portfolio</div>
-        <div class="proj-desc">Showcasing work — fast, SEO-first, Next.js powered</div>
-        <div class="proj-tags"><span class="tag">Next.js</span><span class="tag">TypeScript</span><span class="tag">Tailwind</span></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="connect-box">
-    <div class="connect-title">Available for Remote Opportunities</div>
-    <div class="connect-sub">Frontend / Full Stack · Responding within 24 hours</div>
-    <div class="connect-btns">
-      <span class="badge badge-li">🔗 Connect on LinkedIn</span>
-      <span class="badge badge-gm">✉️ Send an Email</span>
-      <span class="badge badge-po">🌐 View Portfolio</span>
-    </div>
-    <div class="quote">"I don't just write code — I build products that work."</div>
-  </div>
-
-  <div class="footer-wave"><div class="footer-text">MUHAMMAD YASIR · FRONTEND ENGINEER · OPEN TO REMOTE</div></div>
 </div>
 
-<script>
-const lines = [
-  "⚛️  React.js · Next.js · Full Stack MERN",
-  "🌐  50+ Websites & Web Applications Delivered",
-  "🔥  Building Scalable Products from Scratch",
-  "🌍  Open to Remote Opportunities Worldwide"
-];
-let li = 0, ci = 0, del = false;
-const el = document.getElementById('typing');
-function type() {
-  if (!del) {
-    el.textContent = lines[li].substring(0, ci++);
-    if (ci > lines[li].length) { del = true; setTimeout(type, 1800); return; }
-  } else {
-    el.textContent = lines[li].substring(0, ci--);
-    if (ci < 0) { del = false; li = (li+1) % lines.length; ci = 0; setTimeout(type, 400); return; }
-  }
-  setTimeout(type, del ? 30 : 55);
-}
-type();
-</script>
+---
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## 👋 &nbsp;About Me
+
+<br/>
+
+🚀 &nbsp;**Frontend Engineer** with **3+ years** in production <br/>
+💻 &nbsp;Building **websites & web applications** — React, Next.js, MERN <br/>
+🎯 &nbsp;**50+ projects** delivered solo, end-to-end <br/>
+⚙️ &nbsp;Full Stack capable — UI to API to Database <br/>
+🧩 &nbsp;Clean architecture, reusable systems & blazing fast UIs <br/>
+🌍 &nbsp;Worked with **international clients** remotely <br/>
+📬 &nbsp;**Open to remote** frontend / full stack roles <br/>
+
+<br/><br/><br/>
+
+---
+
+<br clear="right"/>
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+**Styling & Design**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+
+**Full Stack — MERN**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redux&theme=dark)](https://skillicons.dev)
+
+**Tools & Deployment**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,wordpress,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+> 💡 *More full stack products actively being built & uploaded*
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/myasirweb/mern-ecommerce-wachesApp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=myasirweb&repo=mern-ecommerce-wachesApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+</a>
+<a href="https://github.com/myasirweb/bluerock-capital-nextjs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=myasirweb&repo=bluerock-capital-nextjs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/myasirweb/saj-legal-website">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=myasirweb&repo=saj-legal-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+</a>
+<a href="https://github.com/myasirweb/yasir-portfolio-nextjs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=myasirweb&repo=yasir-portfolio-nextjs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+</a>
+
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myasirweb&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=myasirweb&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 &nbsp;Let's Connect
+
+<div align="center">
+
+**Available for Remote Frontend / Full Stack Opportunities**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
+
+<br/>
+
+> *"I don't just write code — I build products that work."*
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&animation=fadeIn"/>
