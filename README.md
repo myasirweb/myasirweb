@@ -1,195 +1,325 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56a0,100:00c6ff&height=200&section=header&text=Muhammad%20Yasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack&descAlignY=60&descColor=c9e8ff" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Yasir&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Frontend%20Engineer%20%7C%20React%20·%20Next.js%20·%20MERN%20Stack&descSize=20&descAlignY=62&descColor=a8d8ff"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1a56a0&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+3%2B+Years+Experience;React.js+%7C+Next.js+%7C+MERN+Stack;15%2B+Client+Websites+Delivered;Building+School+Management+System+%F0%9F%9A%80;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/yasirweb">
+  <img src="https://img.shields.io/badge/-Muhammad%20Yasir-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:muhammad.yasir1368@gmail.com">
+  <img src="https://img.shields.io/badge/-muhammad.yasir1368@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://yasir-portfolio-nextjs.vercel.app">
+  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Vercel&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=myasirweb&style=flat-square&color=0A66C2&label=Profile+Views"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+production-grade+web+apps+since+2021;⚛️+React.js+·+Next.js+·+Redux+Toolkit+·+RTK+Query;🏗️+Currently%3A+School+Management+System+(10%2B+modules+solo);🌍+Delivered+15%2B+websites+for+international+clients;💼+Open+to+Remote+Frontend+%2F+Full+Stack+Roles)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myasirweb)
-
-![Profile Views](https://komarev.com/ghpvc/?username=myasirweb&label=Profile+Views&color=1a56a0&style=flat-square)
-
-</div>
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## `< about_me />`
 
-```javascript
-const yasir = {
-  name:        "Muhammad Yasir",
-  role:        "Frontend Developer → Full Stack MERN",
-  experience:  "3+ years",
-  location:    "Karachi, Pakistan 🇵🇰",
-  remote:      true,
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-  currentWork: [
-    "🏫 Building School Management System (10+ modules) — solo from scratch",
-    "⚡ Delivering client websites at MileTap & RojrzTech",
-  ],
+```ts
+const MuhammadYasir = {
+  title     : "Frontend Engineer → Full Stack MERN",
+  location  : "Karachi, Pakistan 🇵🇰",
+  experience: "3+ years in production",
+  remote    : "✅ Available Worldwide",
 
-  techStack: {
-    frontend:  ["React.js", "Next.js", "JavaScript ES6+", "Tailwind CSS", "Ant Design"],
-    backend:   ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-    state:     ["Redux Toolkit", "RTK Query"],
-    tools:     ["Git", "Bitbucket", "Vercel", "Figma", "WordPress"],
+  currently : {
+    building : "School Management System",
+    modules  : "10+ (solo, from scratch)",
+    stack    : "React · Redux · RTK Query · Ant Design",
   },
 
-  achievements: [
-    "15+ client websites delivered end-to-end",
-    "20+ reusable UI components built",
-    "10+ modules in SaaS product",
-    "International clients served remotely",
+  expertise : [
+    "⚛️  Component architecture & reusable UI systems",
+    "🔄  State management — Redux Toolkit + RTK Query",
+    "🌐  REST API integration & async data flows",
+    "📈  On-page SEO · Core Web Vitals · Lighthouse 90+",
+    "🤝  International client delivery & remote async work",
   ],
 
-  askMeAbout:  ["React", "Next.js", "MERN Stack", "Redux", "SEO", "Remote Work"],
-  funFact:     "I turn coffee into clean, scalable code ☕",
+  stats : {
+    clientWebsites  : "15+ delivered end-to-end",
+    uiComponents    : "20+ reusable components built",
+    productModules  : "10+ SaaS modules shipped",
+    devTimeReduced  : "~35% via component systems",
+  },
+
+  learning  : ["TypeScript", "Testing (Jest · RTL)", "Docker basics"],
+  goal      : "Land a high-impact remote role & go Full Stack 🚀",
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## `< tech_stack />`
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ⚛️ Frontend Core
 <div align="center">
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
-### 🎨 Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+</div>
+</td>
+<td valign="top" width="33%">
 
-### 🔧 State Management & API
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🎨 Styling & UI
+<div align="center">
+
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Figma](https://skillicons.dev/icons?i=figma)
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" height="48"/>
+
+</div>
+</td>
+<td valign="top" width="33%">
 
 ### 🌐 Backend — MERN
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
 
-### 🚀 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redux](https://skillicons.dev/icons?i=redux)
 
 </div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 🚀 DevOps & Tools
+<div align="center">
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 📦 CMS & Other
+<div align="center">
+
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Postman](https://skillicons.dev/icons?i=postman)
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="48"/>
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 📚 Currently Learning
+<div align="center">
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Jest](https://skillicons.dev/icons?i=jest)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## `< featured_projects />`
 
 <div align="center">
 
-| 🏆 Project | 🛠️ Stack | 📌 Highlights |
-|-----------|---------|------------|
-| 🏫 **School Management System** | React · Redux · RTK Query · Ant Design | 10+ modules, solo built from scratch |
-| 🛒 **MERN Watches E-Commerce** | MongoDB · Express · React · Node.js | Full stack — cart, auth, admin dashboard |
-| ⚖️ **SAJ Legal Website** | Next.js · Tailwind · SEO | Law firm site, solo client delivery |
-| 💼 **Blue Rock Capital** | Next.js · TypeScript · Tailwind | Investment firm, SEO optimized |
-| 🌐 **15+ Client Websites** | React · Next.js · WordPress | International clients, end-to-end |
+### 🏆 Flagship — School Management System
 
 </div>
 
----
-
-### 🏫 School Management System *(Flagship Project)*
-
-> Solo-architected full SaaS platform — built entirely from scratch
+> 🔥 **Solo-built** production SaaS platform from absolute zero — architecture, UI, state, APIs, all mine.
 
 ```
-✅ Administration Module       ✅ Student Management
-✅ News & Announcements        ✅ Complexity Tracking
-✅ User Roles & Permissions    ✅ Dashboard & Analytics
-✅ API Integration (RTK Query) ✅ Redux State Management
-✅ Responsive UI (Ant Design)  🔄 More modules in progress...
+📦 PROJECT STRUCTURE
+├── 🔐 Administration Module      ← Role-based access control
+├── 👨‍🎓 Student Management         ← Full CRUD + enrollment flows
+├── 📰 News & Announcements       ← Real-time content module
+├── 📊 Complexity Tracking        ← Analytics & reporting UI
+├── 🏫 Class & Schedule Mgmt      ← Timetable system
+├── 👨‍🏫 Teacher Management         ← Staff portal
+├── 📋 Dashboard & KPIs           ← Admin overview panels
+├── 🔌 API Layer (RTK Query)      ← All server-state managed
+├── 🗃️ Redux Store Architecture   ← Scalable state design
+└── 🎨 Full Responsive UI         ← Ant Design · Mobile-first
 ```
 
-**Stack:** `React.js` `Redux Toolkit` `RTK Query` `Ant Design` `REST APIs` `Node.js` `Express` `MongoDB`
+**Tech:** `React.js` · `Redux Toolkit` · `RTK Query` · `Ant Design` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🛒 [MERN E-Commerce — Watches](https://github.com/myasirweb/mern-ecommerce-wachesApp)
+Full-stack store · Cart · Auth · Admin Dashboard
+<br/>
+`MongoDB` `Express` `React` `Node.js`
+<br/>
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/myasirweb/mern-ecommerce-wachesApp)
+
+</td>
+<td align="center" width="50%">
+
+### 💼 [Blue Rock Capital](https://github.com/myasirweb/bluerock-capital-nextjs)
+Investment firm website · SEO · High performance
+<br/>
+`Next.js` `TypeScript` `Tailwind CSS`
+<br/>
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/myasirweb/bluerock-capital-nextjs)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚖️ [SAJ Legal Website](https://github.com/myasirweb/saj-legal-website)
+Law firm · Custom client delivery · SEO optimized
+<br/>
+`Next.js` `HTML` `CSS` `JavaScript`
+<br/>
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/myasirweb/saj-legal-website)
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 [Personal Portfolio](https://yasir-portfolio-nextjs.vercel.app)
+Showcasing projects · Fast · SEO-first
+<br/>
+`Next.js` `TypeScript` `Tailwind CSS`
+<br/>
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel)](https://yasir-portfolio-nextjs.vercel.app)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## `< github_stats />`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myasirweb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myasirweb&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=myasirweb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=myasirweb&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 💼 Experience Timeline
+## `< work_history />`
+
+<div align="center">
+
+| 🏢 Company | 🎯 Role | 📅 Duration | 🌍 Mode |
+|-----------|--------|------------|--------|
+| **MileTap Pvt Ltd** | Frontend Developer — Product + Client Services | Aug 2023 – Present | Hybrid |
+| **RojrzTech Pvt Ltd** | Frontend Developer | Oct 2024 – Present | Remote |
+| **Freelance** | Frontend Developer | Jan 2021 – Jul 2023 | Remote |
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ```
-🟦 Aug 2023 – Present   │ Frontend Developer (Product + Clients) │ MileTap Pvt Ltd
-🟦 Oct 2024 – Present   │ Frontend Developer (Part-Time Remote)  │ RojrzTech Pvt Ltd
-🟦 Jan 2021 – Jul 2023  │ Freelance Frontend Developer           │ Remote / International
+ IMPACT METRICS
+┌─────────────────────────────────────────────────────────────┐
+│  🌐  15+  Client websites delivered solo (end-to-end)       │
+│  🧩  20+  Reusable UI components built                      │
+│  ⚙️  10+  SaaS product modules shipped from scratch         │
+│  ⚡  ~35% Development time reduced via component systems    │
+│  📈  90+  Lighthouse scores on all client projects          │
+│  🌍   5+  International clients served remotely             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-### 🏅 Key Achievements
-- 🎯 **15+ client websites** delivered solo — end-to-end (brief → design → deployment)
-- ⚙️ **10+ product modules** built in a SaaS application from scratch
-- 🧩 **20+ reusable components** built, reducing team dev time by ~35%
-- 🌍 **International clients** served via remote async collaboration
-- 📈 **On-page SEO** implemented across all client projects (Lighthouse 90+)
+</div>
 
 ---
 
-## 🎓 Education & Certifications
-
-| 🎓 Degree / Certificate | 🏫 Institution | 📅 Year |
-|------------------------|--------------|--------|
-| BBIT — Business & Information Technology | Virtual University of Pakistan | Expected 2026 |
-| ACCP-PRO Diploma in Software Engineering | Aptech Computer Education | 2022 |
-| Full Stack Engineer Certificate | Codecademy | 2023 |
-
----
-
-## 📫 Let's Work Together
+## `< education />`
 
 <div align="center">
 
-### 💬 Available for Remote Frontend / Full Stack Opportunities!
+```
+🎓  BBIT — Business & Information Technology
+    Virtual University of Pakistan  ·  Expected 2026
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
+🎓  ACCP-PRO Diploma in Software Engineering
+    Aptech Computer Education  ·  2022
+
+🏅  Full Stack Engineer Certificate
+    Codecademy  ·  2023
+```
 
 </div>
 
 ---
 
+## `< lets_connect />`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:1a56a0&height=120&section=footer&animation=fadeIn"/>
+### 💼 Actively looking for Remote Frontend / Full Stack opportunities
+
+*I respond within 24 hours — let's build something great together.*
+
+<br/>
+
+<a href="https://linkedin.com/in/yasirweb">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:muhammad.yasir1368@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://yasir-portfolio-nextjs.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"I don't just write code — I build experiences that solve real problems."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
