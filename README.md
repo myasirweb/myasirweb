@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Yasir&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Full%20Stack%20MERN&descSize=18&descAlignY=63&descColor=89CFF0"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Muhammad%20Yasir&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Full%20Stack%20MERN&descSize=19&descAlignY=65&descColor=89CFF0"/>
+</div>
 
 <div align="center">
 
@@ -6,11 +8,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yasir1368@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myasirweb)
-[![Views](https://komarev.com/ghpvc/?username=myasirweb&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/myasirweb)
+[![Profile Views](https://komarev.com/ghpvc/?username=myasirweb&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/myasirweb)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1800&color=58A6FF&center=true&vCenter=true&width=750&lines=⚛️+React.js+·+Next.js+·+Full+Stack+MERN;🌐+50%2B+Websites+%26+Web+Applications+Delivered;🔥+Building+Scalable+Products+from+Scratch;🌍+Open+to+Remote+Opportunities+Worldwide)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=1800&color=58A6FF&center=true&vCenter=true&width=750&lines=⚛️+React.js+·+Next.js+·+Full+Stack+MERN;🌐+50%2B+Websites+%26+Web+Applications+Delivered;🔥+Building+Scalable+Products+from+Scratch;🌍+Open+to+Remote+Opportunities+Worldwide)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,66 +20,82 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
-🚀 &nbsp;**3+ years** building production-grade websites & web apps<br/>
-🌐 &nbsp;**50+ projects** delivered solo, end-to-end<br/>
-⚙️ &nbsp;**Full Stack** capable — UI to API to Database (MERN)<br/>
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td width="50%" valign="top">
+
+🚀 &nbsp;**3+ years** building production‑grade websites & web apps<br/><br/>
+🌐 &nbsp;**50+ projects** delivered solo, end‑to‑end<br/><br/>
+⚙️ &nbsp;**Full Stack** capable — UI to API to Database (MERN)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🌍 &nbsp;Worked with **international clients** remotely<br/>
-🧩 &nbsp;Clean architecture & **reusable component systems**<br/>
-📬 &nbsp;**Open to remote** frontend / full stack roles<br/>
+🌍 &nbsp;Worked with **international clients** remotely<br/><br/>
+🧩 &nbsp;Clean architecture & **reusable component systems**<br/><br/>
+📬 &nbsp;**Open to remote** frontend / full stack roles
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<div align="center">
 
 ## 📊 Impact Numbers
 
-<div align="center">
+<br/>
 
-| 🌐 50+ | 🧩 20+ | ⚡ 3+ | 📈 90+ |
-|:------:|:------:|:-----:|:------:|
+| &nbsp;&nbsp;&nbsp;🌐 **50+**&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;🧩 **20+**&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;⚡ **3+**&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;📈 **90+**&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|
 | Websites & Apps Delivered | Reusable UI Components | Years in Production | Lighthouse Score Avg |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Core Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark)](https://skillicons.dev)
-
-**Styling & Design**
-
-[![Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
-
-**Full Stack — MERN**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redux&theme=dark)](https://skillicons.dev)
-
-**Tools & Deployment**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,wordpress,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
+
+## 🛠️ Tech Stack
+
+<br/>
+
+**⚛️ Core Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**🎨 Styling & Design**
+
+[![Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**🌐 Full Stack — MERN**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redux&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**🚀 Tools & Deployment**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,wordpress,postman&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 ![React](https://img.shields.io/badge/React.js-0d2137?style=flat-square&logo=react&logoColor=58A6FF)
 ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -93,11 +111,19 @@
 
 </div>
 
+<br/>
+
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-> 💡 **More full stack products actively being built & uploaded — stay tuned**
+</div>
+
+<br/>
+
+> 💡 &nbsp;**More full stack products actively being built & uploaded — stay tuned**
 
 <br/>
 
@@ -121,28 +147,36 @@
 
 </div>
 
+<br/>
+
 ---
+
+<div align="center">
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=myasirweb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=161b22&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&border_radius=10"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myasirweb&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=161b22&title_color=58A6FF&text_color=8b949e&border_radius=10"/>
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=myasirweb&theme=github-dark-blue&hide_border=true&background=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=90&text=Available%20for%20Remote%20Frontend%20%2F%20Full%20Stack%20Roles&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+## 📫 Let's Connect
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&text=Available%20for%20Remote%20Frontend%20%2F%20Full%20Stack%20Roles&fontSize=17&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 <br/><br/>
 
@@ -152,7 +186,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://yasir-portfolio-nextjs.vercel.app)
 
-<br/>
+<br/><br/>
 
 > *"I don't just write code — I build products that work."*
 
