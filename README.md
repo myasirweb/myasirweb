@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:muhammad.yasir1368@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=8b949e)](https://yasir-portfolio-nextjs.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/myasirweb)
-[![Open to Remote](https://img.shields.io/badge/●%20Open%20to%20Remote-0f2a0f?style=flat-square&logoColor=3fb950&color=0f2a0f&labelColor=0f2a0f)](https://linkedin.com/in/yasirweb)
+[![Open to Remote](https://img.shields.io/badge/●%20Open%20to%20Remote-0f2a0f?style=flat-square&color=0f2a0f&labelColor=0f2a0f)](https://linkedin.com/in/yasirweb)
 
 </div>
 
@@ -58,14 +58,40 @@ Tools     //  Git · Figma · Vercel · WordPress
 
 ---
 
-### Selected Projects
+### Projects
+
+**Full Stack & MERN**
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **MERN E-Commerce — Watches** | Full stack web app — cart, auth & admin dashboard | `MongoDB` `Express` `React` `Node.js` | [Repo →](https://github.com/myasirweb/mern-ecommerce-wachesApp) |
-| **Blue Rock Capital** | Investment firm website — high performance, SEO optimized | `Next.js` `TypeScript` `Tailwind` | [Repo →](https://github.com/myasirweb/bluerock-capital-nextjs) |
-| **SAJ Legal Website** | Law firm site — solo delivery from brief to deployment | `Next.js` `JavaScript` `SEO` | [Repo →](https://github.com/myasirweb/saj-legal-website) |
-| **Personal Portfolio** | Fast, SEO-first portfolio built with Next.js | `Next.js` `TypeScript` `Tailwind` | [Live →](https://yasir-portfolio-nextjs.vercel.app) |
+| **MERN E-Commerce — Watches** | Complete e-commerce app with cart, auth & admin dashboard | `MongoDB` `Express` `React` `Node.js` | [Repo →](https://github.com/myasirweb/mern-ecommerce-wachesApp) |
+| **School Management System** | Full SaaS product — 10+ modules built solo from scratch | `React` `Redux Toolkit` `Ant Design` `REST APIs` | [Repo →](https://github.com/myasirweb/school-management-system) |
+
+**Next.js Applications**
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Mega Shop Buzz** | eCommerce blog platform with CMS integration | `Next.js 14` `Sanity CMS` `Tailwind CSS` | [Repo →](https://github.com/myasirweb/mega-shop-buzz) |
+| **Blue Rock Capital** | Investment firm website — SEO optimized, high performance | `Next.js` `TypeScript` `Tailwind CSS` | [Repo →](https://github.com/myasirweb/bluerock-capital-nextjs) |
+| **SAJ Legal Website** | Law firm site — solo delivery from brief to deployment | `Next.js` `HTML` `CSS` | [Repo →](https://github.com/myasirweb/saj-legal-website) |
+| **Personal Portfolio** | Fast, SEO-first personal portfolio | `Next.js` `TypeScript` `Tailwind CSS` | [Live →](https://yasir-portfolio-nextjs.vercel.app) |
+
+**React Applications**
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **React News App** | Live news headlines with category filtering | `React` `News API` | [Repo →](https://github.com/myasirweb/React_NewsApp) |
+| **Cocktail App — Redux** | CRUD app for cocktail recipes with state management | `React` `Redux Toolkit` | [Repo →](https://github.com/myasirweb/Cocktail-Websit-With-React-ReduxToolkit) |
+| **CRUD App — Redux** | Clean CRUD application with Redux Toolkit | `React` `Redux Toolkit` | [Repo →](https://github.com/myasirweb/CRUD-APP-React-ReduxToolkit) |
+| **TextUtils** | Text utility tool — word count, case convert & more | `React` `JavaScript` | [Repo →](https://github.com/myasirweb/texttutils) |
+
+**Client Websites**
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Ibex Global Incorp** | Corporate website for international firm | `Next.js` `JavaScript` | [Repo →](https://github.com/myasirweb/ibex-global-website) |
+| **People Junction** | Corporate consulting & recruitment website | `JavaScript` | [Repo →](https://github.com/myasirweb/people-junction-website) |
+| **Barristers Hub UK** | Responsive legal services website for UK firm | `CSS` `HTML` | [Repo →](https://github.com/myasirweb/barristers-hub-website) |
 
 *More full stack products in progress — uploading soon.*
 
