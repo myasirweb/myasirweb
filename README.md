@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Yasir&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=FRONTEND%20ENGINEER%20%C2%B7%20REACT%20%C2%B7%20NEXT.JS%20%C2%B7%20FULL%20STACK%20MERN&descSize=12&descAlignY=63&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Yasir&fontSize=52&fontColor=e6edf4&animation=fadeIn&fontAlignY=42&desc=FRONTEND%20ENGINEER%20%C2%B7%20REACT%20%C2%B7%20NEXT.JS%20%C2%B7%20FULL%20STACK%20MERN&descSize=12&descAlignY=64&descColor=8b949e"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirweb)
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:muhammad.yasir1368@gmail.com)
@@ -12,7 +12,7 @@
 
 <br/>
 
-3+ years building production-grade **web applications and digital products**. I work across the full stack — from pixel-perfect UIs to REST APIs and databases. Delivered **50+ websites and web apps** for local and international clients, mostly as a solo engineer. Currently focused on building scalable SaaS products from scratch.
+4+ years building production-grade **web applications and digital products**. I work across the full stack — from pixel-perfect UIs to REST APIs and databases. Delivered **50+ websites and web apps** for local and international clients, mostly as a solo engineer. Currently focused on building scalable SaaS products from scratch.
 
 ---
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-| ⚡ **50+** | 🧩 **20+** | 🔥 **3+** | 📈 **90+** |
+| ⚡ **50+** | 🧩 **20+** | 🔥 **4+** | 📈 **90+** |
 |:---:|:---:|:---:|:---:|
 | Websites & Apps Delivered | Reusable UI Components | Years in Production | Lighthouse Score Avg |
 
